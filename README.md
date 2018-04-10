@@ -4,9 +4,10 @@ This script can be used to invite all members of a slack workspace to a specific
 
 Steps to Follow:
 
-1. Open specific channel, into which you want to invite others.
-2. Open browsers dev console, copy and paste the script code run it.
+1. Open specific channel of interest
+2. Open browsers dev console and run the script code
 3. Wait for it finish.
+4. You will have to run it multiple times to get desired result.
 
 Reference: https://webapps.stackexchange.com/questions/100820/how-do-i-invite-all-team-members-to-a-new-slack-channel?noredirect=1&lq=1
 
