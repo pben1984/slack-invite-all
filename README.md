@@ -2,7 +2,7 @@
 
 This script can be used to invite all members of a slack workspace to a specific channel.
 
-Steps to Follow:
+Instruction:
 
 1. Open specific channel of interest
 2. Open browsers dev console and run the script code
@@ -15,6 +15,9 @@ Known Issues:
 1. Script does not invite all the members at a time, it needs to be runned
 multiple times to get desired result
 2. Invites bots too.
+
+Contributions:
+Feel free to ehance working capability of the script and also fix bugs.
 
 TODO:
 1. Fix known issue
