@@ -12,8 +12,9 @@ Steps to Follow:
 Reference: https://webapps.stackexchange.com/questions/100820/how-do-i-invite-all-team-members-to-a-new-slack-channel?noredirect=1&lq=1
 
 Known Issues:
-Script does not invite all the members at a time, it needs to be runned
+1. Script does not invite all the members at a time, it needs to be runned
 multiple times to get desired result
+2. Invites bots too.
 
 TODO:
 1. Fix known issue
